@@ -1,0 +1,33 @@
+{
+  "courses": [
+    {
+      "id": "IFT 1005",
+      "name": "Design et développement Web",
+      "description": "Introduction à l'internet et au Web. Langage de balisage et validation. Standards, accessibilité. Feuilles de styles pour texte et graphique. Design web. Optimisation des sites. Formulaires et interactivité. Introduction aux gestionnaires de contenu.",
+      "credits": "3",
+      "type": "obligatoire",
+      "prerequisites": [],
+      "note": "",
+      "semester": ["Automne", "Hiver"]
+    },
+
+    {
+      "id": "IFT 1015",
+      "name": "Programmation 1",
+      "description": "Éléments de base d'un langage de programmation : types, expressions, énoncés conditionnels et itératifs, procédures, fonctions, paramètres, récursivité, tableaux, enregistrements, pointeurs et fichiers.",
+      "credits": "3",
+      "prerequisites": [],
+      "note": "",
+      "semester": ["Automne", "Hiver", "Ete"]
+    },
+    {
+      "id": "IFT 1025",
+      "name": "Programmation 2",
+      "description": "Concepts avancés : classes, objets, héritage, interfaces, réutilisation, événements. Introduction aux structures de données et algorithmes : listes, arbres binaires, fichiers, recherche et tri. Notions d'analyse numérique : précision.",
+      "credits": "3",
+      "prerequisites": ["IFT 1015"],
+      "note": "",
+      "semester": ["Automne", "Hiver", "Ete"]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "semesters": [
+    {
+      "name": "Automne 1",
+      "id": "A1"
+    },
+    {
+      "name": "Hiver 1",
+      "id": "H1"
+    },
+    {
+      "name": "Ete 1",
+      "id": "E1"
+    },
+    {
+      "name": "Automne 2",
+      "id": "A2"
+    },
+    {
+      "name": "Hiver 2",
+      "id": "H2"
+    },
+    {
+      "name": "Ete 2",
+      "id": "E2"
+    },
+    {
+      "name": "Automne 3",
+      "id": "A3"
+    },
+    {
+      "name": "Hiver 3",
+      "id": "H3"
+    },
+    {
+      "name": "Ete 3",
+      "id": "E3"
+    },
+    {
+      "name": "Automne 4",
+      "id": "A4"
+    },
+    {
+      "name": "Hiver 4",
+      "id": "H4"
+    },
+    {
+      "name": "Ete 4",
+      "id": "E4"
+    }
+  ]
+}
